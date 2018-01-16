@@ -14,6 +14,7 @@ router.get("/", function(req, res)
 	{
 		var burgerObject =
 		{
+			//NOTE: (burgers) property must be the same name as index.handlebars/#each (burgers)
 			burgers: data
 		}
 

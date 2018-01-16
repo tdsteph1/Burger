@@ -8,6 +8,8 @@ var burger =
 	{
 		orm.selectAll("burgers", function(res)
 		{
+			//executes callback function (function(data))
+			//inside burgers_controller.js
 			cb(res);
 		});
 	},

@@ -25,7 +25,7 @@ else
 		port: 3306,
 		host: "localhost",
 		user: "root",
-		password: "",
+		password: "Imcoool202",
 		database: "burgers_db"
 
 
